@@ -4,6 +4,8 @@
 
 ## vivo 50
 
+wechat
+
 Meaning：xxx
 
 Usage：xxx
@@ -20,7 +22,6 @@ Usage：xxx
 
 Meaning：xxx
 
-Usage：xxx
 
 ## new bee
 
