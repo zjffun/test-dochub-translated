@@ -4,7 +4,7 @@
 
 ## vivo 50
 
-wechat
+wechat xxx
 
 Meaning：xxx
 
