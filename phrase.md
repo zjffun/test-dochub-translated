@@ -22,7 +22,7 @@ Usage：xxx
 
 ## so so way
 
-Meaning：xxx1
+Meaning：xxx
 
 
 ## new bee
